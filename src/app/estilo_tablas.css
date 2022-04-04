@@ -1,0 +1,96 @@
+/*botones*/
+.submit{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+/*botones*/
+
+  /*tablas Isak desde aqui */
+#bai03 h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+#bai03 th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+  }
+  #bai03 caption{
+      font-size: 14px;
+      color: white;
+      text-align: left;
+      background-color: darkblue;
+  }
+  table{
+    width: 80%;
+    border: solid 1px;
+    border-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: black;
+}
+.Actividades{
+    text-align: center;
+}
+/*tablas Misaki hasta aqui */
+
+/*tablas raci desde aqui */
+.raci caption{
+  text-align: left;
+  background-color: darkblue;
+  color: white;
+}
+
+.raci thead th{
+font-size: 12px;
+border: solid 1px;
+border-color: black;
+writing-mode: vertical-rl;
+background-color: aqua;
+}
+.raci thead td{
+text-align: left;
+background-color: gray;
+}
+.raci td{
+font-size: 12px;
+border: solid 1px;
+border-color: black;
+background-color: gray;
+}
+.raci tbody th{
+font-size: 12px;
+border: solid 1px;
+border-color: black;
+background-color: aqua;
+}
+/*tablas raci hasta aqui */
+
+/*tablas Josselin  desde aqui */
+.table h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+.table{
+    width: 80%;
+    border: 1px solid black;
+  }
+  
+  .table th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+  }
+  
+  .table th, td {
+    padding: 10px;
+
+  }
+  
+ .table  th{
+    text-align: left;
+    background-color: lightblue;
+  }
+/*tablas Josselin hasta aqui */
